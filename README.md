@@ -1,10 +1,10 @@
-# DarKade-Theme
-This is my Modified DarKade Theme for recalbox
+# FullBackground-Theme
+This is my Modified FullBackground Theme for recalbox
 Fork from The Darkade Theme by Nachtgarm
 
-The main modification is to delete the platform logo in detailed view and full screen the md_image
+The main modification is to change the detailed view and full screen the md_image
 
-The aim of this modification is to use [Universal XML Scraper](https://github.com/Universal-Rom-Tools/Universal-XML-Scraper) to generate The background picture with The Mix Template named __Background (Modified DarKade-Theme by Nachtgarm)__
+The aim of this modification is to use [Universal XML Scraper](https://github.com/Universal-Rom-Tools/Universal-XML-Scraper) to generate The background picture with The Mix Template named __FullBackground__
 
 
 **Supported systems:**
@@ -66,12 +66,12 @@ The aim of this modification is to use [Universal XML Scraper](https://github.co
 | ZX81 | z81 | 4.0.0 |
 
 **Startup Screen**
-![Startup](https://raw.githubusercontent.com/Universal-Rom-Tools/DarKade-Theme/master/Startup.png)
+![Startup](https://raw.githubusercontent.com/Universal-Rom-Tools/FullBackground-Theme/master/Startup.png)
 
 **Gamelist view with scraped info**
-![Detail](https://raw.githubusercontent.com/Universal-Rom-Tools/DarKade-Theme/master/Detail.png)
+![Detail](https://raw.githubusercontent.com/Universal-Rom-Tools/FullBackground-Theme/master/Detail.png)
 
 **Gamelist view without scraped info**
-![NonScraped](https://raw.githubusercontent.com/Universal-Rom-Tools/DarKade-Theme/master/nonscraped.png)
+![NonScraped](https://raw.githubusercontent.com/Universal-Rom-Tools/FullBackground-Theme/master/nonscraped.png)
 
 *Read the LICENSE for details*
